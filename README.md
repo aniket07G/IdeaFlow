@@ -287,8 +287,6 @@ To install it, run:
 
 npm install react-native-safe-area-context
 
-  
-
 ```
 
 
@@ -305,8 +303,6 @@ To install it, run:
 ```sh
 
 npm install react-native-linear-gradient
-
-  
 
 ```
 
@@ -325,8 +321,6 @@ To install it, run:
 
 npm install @notifee/react-native
 
-  
-
 ```
 
 ## 📌Install react-native-respix
@@ -342,8 +336,6 @@ To install it, run:
 ```sh
 
 npm install react-native-respix
-
-  
 
 ```
 
@@ -361,8 +353,6 @@ To install it, run:
 ```sh
 
 npm install react-native-worklets
-
-  
 
 ```
 
