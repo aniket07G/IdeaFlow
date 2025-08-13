@@ -13,6 +13,26 @@
 
 The app is designed to foster creativity, encourage friendly competition, and help users discover promising startup concepts — all within an intuitive and beautifully designed interface.
 
+# 🖼️ Screenshots
+
+<p align="center">
+  <img src="https://i.ibb.co/xqwM94fV/Screenshot-20250811-114136-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/bMRJVgGc/Screenshot-20250811-114149-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/r1THYgh/Screenshot-20250811-114159-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/P2bdyWW/Screenshot-20250811-114256-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/hR7s0kd2/Screenshot-20250811-114328-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/67hh0g8w/Screenshot-20250811-114341-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/VpMCN3c9/Screenshot-20250811-114354-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/7JtDDPQJ/Screenshot-20250811-114409-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/k2Gky1JC/Screenshot-20250811-114418-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/XZsMXrcK/Screenshot-20250811-114436-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/C5CLYGH5/Screenshot-20250811-114441-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/hJH1qvtC/Screenshot-20250811-114453-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/d43v3qVY/Screenshot-20250813-095704-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  <img src="https://i.ibb.co/fVCbT50Z/Screenshot-20250813-095715-Idea-Flow.jpg" width="280" style="margin: 10px;" />
+  
+</p>
+
 # 📌 Tech Stack Used
 
 | Technology                         | Description                                              |
