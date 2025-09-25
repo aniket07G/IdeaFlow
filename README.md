@@ -455,7 +455,7 @@ adb devices
 
 # ⬇️ Download & Try the App
 
-You can try out the Sudoku app by downloading the APK from the link below:
+You can try out the IdeaFlow app by downloading the APK from the link below:
 
 👉 [Download IdeaFlow APK](https://drive.google.com/file/d/1hZwpieLRCA-9gwbpjumEJOyC62L0Te74/view?usp=sharing)
 
