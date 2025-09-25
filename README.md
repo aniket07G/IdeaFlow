@@ -1,10 +1,10 @@
-# ✅FlowIdea — Startup Idea Sharing & Voting App
-### FlowIdea is a mobile app where users can share their startup ideas, get instant fun AI-generated ratings, vote on others’ ideas, and compete to appear on a leaderboard.
+# ✅IdeaFlow — Startup Idea Sharing & Voting App
+### IdeaFlow is a mobile app where users can share their startup ideas, get instant fun AI-generated ratings, vote on others’ ideas, and compete to appear on a leaderboard.
 
 
 # 💡 App Description
 
-**FlowIdea is a fun and interactive mobile app that lets users:**
+**IdeaFlow is a fun and interactive mobile app that lets users:**
 
 - Submit their startup ideas  
 - Get instant AI-generated feedback ratings  
@@ -457,7 +457,7 @@ adb devices
 
 You can try out the Sudoku app by downloading the APK from the link below:
 
-👉 [Download TaskManager APK](https://drive.google.com/file/d/1hZwpieLRCA-9gwbpjumEJOyC62L0Te74/view?usp=sharing)
+👉 [Download IdeaFlow APK](https://drive.google.com/file/d/1hZwpieLRCA-9gwbpjumEJOyC62L0Te74/view?usp=sharing)
 
 ---
 
