@@ -14,21 +14,9 @@
 The app is designed to foster creativity, encourage friendly competition, and help users discover promising startup concepts — all within an intuitive and beautifully designed interface.
 
 # 🖼️ Screenshots
+
 <p align="center">
-  <img src="./assets/screenshots/1.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/2.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/3.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/4.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/5.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/6.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/7.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/8.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/9.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/10.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/11.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/12.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/13.jpg" width="270" style="margin: 10px;" />
-  <img src="./assets/screenshots/14.jpg" width="270" style="margin: 10px;" />
+  
 </p>
 
 # 📌 Tech Stack Used
@@ -305,8 +293,6 @@ To install it, run:
 
 npm install react-native-safe-area-context
 
-  
-
 ```
 
 
@@ -323,8 +309,6 @@ To install it, run:
 ```sh
 
 npm install react-native-linear-gradient
-
-  
 
 ```
 
@@ -343,8 +327,6 @@ To install it, run:
 
 npm install @notifee/react-native
 
-  
-
 ```
 
 ## 📌Install react-native-respix
@@ -360,8 +342,6 @@ To install it, run:
 ```sh
 
 npm install react-native-respix
-
-  
 
 ```
 
@@ -379,8 +359,6 @@ To install it, run:
 ```sh
 
 npm install react-native-worklets
-
-  
 
 ```
 
